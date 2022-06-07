@@ -707,6 +707,60 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "cmin764",
+      "name": "Cosmin Poieana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/709053?v=4",
+      "profile": "http://cosmins.life",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "shenthils",
+      "name": "Shenthil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68647820?v=4",
+      "profile": "https://github.com/shenthils",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "mardukbp",
+      "name": "Marduk Bolaños",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1140106?v=4",
+      "profile": "https://github.com/mardukbp",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "amodzelewski",
+      "name": "amodzelewski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35276905?v=4",
+      "profile": "https://github.com/amodzelewski",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "TimDicos",
+      "name": "TimDicos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106802639?v=4",
+      "profile": "https://github.com/TimDicos",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "vinismarques",
+      "name": "vinismarques",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33668018?v=4",
+      "profile": "https://github.com/vinismarques",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
